@@ -17,6 +17,7 @@ I still write code. Reviewing architecture I could not build myself has never wo
 
 Most of my work is proprietary. What is public here is small, self-contained, and in daily use.
 
+- [soc-agent-assurance-lab](https://github.com/prasenjitsingh5/soc-agent-assurance-lab). A lab that answers whether an AI security-operations agent has earned operational authority: policy-enforced control plane, twelve adversarial scenarios, hash-chained evidence, and an executive report that leads with the decision.
 - [mlkit-py](https://github.com/prasenjitsingh5/mlkit-py). Preprocessing and model wrappers with a scikit-learn style API. A clean pipeline in a few lines instead of a page of boilerplate.
 
 ## Contact
